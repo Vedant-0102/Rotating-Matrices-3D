@@ -8,6 +8,8 @@ In three-dimensional space, a rotation matrix is a 3x3 orthogonal matrix with a 
 
 ## Screenshots
 
+![Image](https://github.com/user-attachments/assets/8d1f9108-7eb7-4e82-9558-8077d91e7ec7)
+
 ![Formulas](https://github.com/user-attachments/assets/0967ee4b-8e8c-42f6-8bc4-39a33df3d8b6)
 
 ![Formula](https://github.com/user-attachments/assets/aaa89a84-5bfc-432d-a0c2-858324c28aab)
