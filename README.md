@@ -14,9 +14,6 @@ In three-dimensional space, a rotation matrix is a 3x3 orthogonal matrix with a 
 
 ![Formula](https://github.com/user-attachments/assets/aaa89a84-5bfc-432d-a0c2-858324c28aab)
 
-### Rotating Matrices:
-![Rotating Matrices](https://github.com/user-attachments/assets/4484bd41-8a67-4f10-a1f9-54f6fafcdcdc)
-
 
 ## Installation & Setup
 
