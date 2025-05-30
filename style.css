@@ -1,0 +1,14 @@
+body {
+  background: #111;
+  color: white;
+  font-family: monospace;
+  white-space: pre;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+#ascii {
+  line-height: 1em;
+  font-size: 10px;
+}
