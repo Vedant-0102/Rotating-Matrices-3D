@@ -1,6 +1,6 @@
 # Rotating-Matrices-3D
 
-In linear algebra, a rotation matrix is a transformation matrix that is used to perform a rotation in Euclidean spa
+In linear algebra, a rotation matrix is a transformation matrix that is used to perform a rotation in Euclidean space
 
 For more information, visit [Wikipedia](https://en.wikipedia.org/wiki/Rotation_matrix).
 
